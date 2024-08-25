@@ -1,13 +1,3 @@
-/*-----------------------------------------------------------------------------------
-
-    Theme Name: Sodic
-    Theme URI: http://
-    Description: The Creative Onepage Template
-    Author: design_story
-    Author URI: http://themeforest.net/user/design_story
-    Version: 1.0
-
------------------------------------------------------------------------------------*/
 
 
 $(function() {
